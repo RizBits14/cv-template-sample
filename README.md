@@ -1,7 +1,8 @@
 <img width="557" height="895" alt="Image" src="https://github.com/user-attachments/assets/b805b52c-ce29-406b-87f6-8634fd838d93" />
 <img width="557" height="602" alt="Image" src="https://github.com/user-attachments/assets/24f0e6e0-17b6-4bc8-9400-00906e64d485" />
 
-📄 Modern CV Template — README & Beginner Guide
+
+**📄 CV Template — README & Beginner Guide**
 
 Welcome to the Modern LaTeX CV Template!
 This repository provides a clean, professional, and fully customizable CV template built using LaTeX. It is specifically designed so anyone — even complete beginners — can easily edit it using Overleaf.
