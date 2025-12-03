@@ -56,5 +56,6 @@ This template is free to use and modify for any personal or professional purpose
 
 <img width="557" height="895" alt="Image" src="https://github.com/user-attachments/assets/b805b52c-ce29-406b-87f6-8634fd838d93" />
 <img width="557" height="602" alt="Image" src="https://github.com/user-attachments/assets/24f0e6e0-17b6-4bc8-9400-00906e64d485" />
+
 **For Beginner Guide Do Watch:**
 [LaTeX for Students – A Simple Quickstart Guide](https://www.youtube.com/watch?v=lgiCpA4zzGU)
