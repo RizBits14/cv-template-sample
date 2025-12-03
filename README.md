@@ -12,6 +12,8 @@ If you are new to LaTeX or Overleaf, don’t worry — this guide explains every
 
 If you have never used Overleaf before, follow this step-by-step guide.
 
+**Follow the Steps Accordingly**
+
 **STEP 1: Create an Overleaf Account**
 
 Go to https://www.overleaf.com/
@@ -39,7 +41,8 @@ You have two options:
 - Paste it on Overleaf and press on Recompile
 
 **Step 3: Set the Compiler to LuaLaTex**
-You can find the setting on the **top right** corner of the page. Set the **compiler** to **LuaLaTex****
+
+You can find the setting on the **top right** corner of the page. Set the **compiler** to **LuaLaTex**
 
 **STEP 4: Edit the CV Sections**
 - Everthing on the CV has been placed by default. Enter your informaiton accordingly.
@@ -47,6 +50,7 @@ You can find the setting on the **top right** corner of the page. Set the **comp
 
 
 📜 License
+
 This template is free to use and modify for any personal or professional purpose.
 
 
