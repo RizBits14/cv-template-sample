@@ -8,7 +8,7 @@ If you are new to LaTeX or Overleaf, don’t worry — this guide explains every
 📄 main.tex → The main CV LaTeX file (edit this)
 
 
-🌐 2. How to Use The Template in Overleaf (Beginners Guide)
+🌐 How to Use The Template in Overleaf (Beginners Guide)
 
 If you have never used Overleaf before, follow this step-by-step guide.
 
