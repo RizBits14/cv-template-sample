@@ -1,6 +1,5 @@
 **📄 CV Template — README & Beginner Guide**
 
-Welcome to the Modern LaTeX CV Template!
 This repository provides a clean, professional, and fully customizable CV template built using LaTeX. It is specifically designed so anyone — even complete beginners — can easily edit it using Overleaf.
 
 If you are new to LaTeX or Overleaf, don’t worry — this guide explains everything step by step.
@@ -8,7 +7,7 @@ If you are new to LaTeX or Overleaf, don’t worry — this guide explains every
 📄 main.tex → The main CV LaTeX file (edit this)
 
 
-🌐 How to Use The Template in Overleaf (Beginners Guide)
+🌐 **How to Use The Template in Overleaf (Beginners Guide)**
 
 If you have never used Overleaf before, follow this step-by-step guide.
 
@@ -38,11 +37,13 @@ You have two options:
 **Option B — Copy and Paste**
 - Click on the main.tex file
 - Click on Copy Raw File
-- Paste it on Overleaf and press on Recompile
+- Paste it on Overleaf
+
+**OPTION B IS RECOMMENDED FOR NEW USERS**
 
 **Step 3: Set the Compiler to LuaLaTex**
 
-You can find the setting on the **top right** corner of the page. Set the **compiler** to **LuaLaTex**
+You can find the setting on the **top right** corner of the page. Set the **compiler** to **LuaLaTex** and click on **Recompile**
 
 **STEP 4: Edit the CV Sections**
 - Everthing on the CV has been placed by default. Enter your informaiton accordingly.
