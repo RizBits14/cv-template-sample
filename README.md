@@ -38,12 +38,15 @@ You have two options:
 - Click on Copy Raw File
 - Paste it on Overleaf and press on Recompile
 
-**STEP 3: Edit the CV Sections**
+**Step 3: Set the Compiler to LuaLaTex**
+You can find the setting on the **top right** corner of the page. Set the **compiler** to **LuaLaTex****
+
+**STEP 4: Edit the CV Sections**
 - Everthing on the CV has been placed by default. Enter your informaiton accordingly.
 - **If you want to break a page or jump to a new page use /newpage**
 
-📜 License
 
+📜 License
 This template is free to use and modify for any personal or professional purpose.
 
 
